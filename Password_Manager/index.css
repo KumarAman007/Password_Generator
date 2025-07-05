@@ -1,0 +1,43 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 500px;
+    height: 500px;
+    color: white;
+    background-color: #202733;
+    text-align: center;
+}
+
+#password-el{
+    
+}
+.title-el{
+    color: rgb(128, 214, 128);
+}
+
+#password-el-1{
+    width: 180px;
+    height:20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: auto;
+    border: 2px solid green;
+    display: inline-block;
+    padding-top:10px;
+    padding-bottom:10px ;
+}
+#password-el-2{
+    width: 180px;
+    height:20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: auto;
+    border: 2px solid green;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
